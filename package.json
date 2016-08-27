@@ -1,0 +1,23 @@
+{
+  "name": "landing-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s1mps0ns/landing-react.git"
+  },
+  "author": "SiM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s1mps0ns/landing-react/issues"
+  },
+  "homepage": "https://github.com/s1mps0ns/landing-react#readme",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}
